@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Ivan Petrov",
+    "group": "Group-101",
+    "books": [
+      { "title": "War and Peace", "author": "Leo Tolstoy", "year": 1869, "pages": 1225 },
+      { "title": "1984", "author": "George Orwell", "year": 1949, "pages": 328 },
+      { "title": "Harry Potter and the Philosopher's Stone", "author": "J.K. Rowling", "year": 2001, "pages": 320 },
+      { "title": "Dune", "author": "Frank Herbert", "year": 1965, "pages": 412 },
+      { "title": "The Da Vinci Code", "author": "Dan Brown", "year": 2003, "pages": 454 }
+    ]
+  },
+  {
+    "name": "Maria Sidorova",
+    "group": "Group-102",
+    "books": [
+      { "title": "Brave New World", "author": "Aldous Huxley", "year": 1932, "pages": 311 },
+      { "title": "Fahrenheit 451", "author": "Ray Bradbury", "year": 1953, "pages": 256 },
+      { "title": "Sapiens", "author": "Yuval Noah Harari", "year": 2011, "pages": 443 },
+      { "title": "Educated", "author": "Tara Westover", "year": 2018, "pages": 334 },
+      { "title": "The Hobbit", "author": "J.R.R. Tolkien", "year": 1937, "pages": 310 }
+    ]
+  },
+  {
+    "name": "Petr Sokolov",
+    "group": "Group-103",
+    "books": [
+      { "title": "Atomic Habits", "author": "James Clear", "year": 2018, "pages": 320 },
+      { "title": "The Martian", "author": "Andy Weir", "year": 2011, "pages": 369 },
+      { "title": "Project Hail Mary", "author": "Andy Weir", "year": 2021, "pages": 476 },
+      { "title": "Dune", "author": "Frank Herbert", "year": 1965, "pages": 412 },
+      { "title": "1984", "author": "George Orwell", "year": 1949, "pages": 328 },
+      { "title": "Foundation", "author": "Isaac Asimov", "year": 1951, "pages": 255 }
+    ]
+  }
+]
